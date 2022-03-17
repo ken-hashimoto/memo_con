@@ -25,5 +25,5 @@
 Q. キーボードみるときにどうしても下向いちゃいますよね？  
 A. タッチタイピングを練習しましょう。
 # 使用例
-使用している様子をyoutubeにアップしました。(GIFは見にくかったので…)  
-https://www.youtube.com/watch?v=1Fdk8ElJhjw&feature=youtu.be
+**(2022/03/17 更新)
+GIFを見やすいものに変更しました。![メモコン　使用例（ゆっくり）](https://user-images.githubusercontent.com/98263011/158780150-7c4577b2-40a0-4a53-a330-33d78b8c39b0.gif)

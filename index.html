@@ -13,14 +13,14 @@
   <main class="content">
     <div id="input">
       <textarea name="memo" id="memo"></textarea><br>
-      <input type="button" value="今までの内容をコピー" onclick="copy(0)">
+      <input type="button" value="今までの内容をコピー" onclick="copy()">
+      <input type="button" value="今までの内容を削除" onclick="delete_memo()">
     </div>
     <div class = "output" id="output"></div>
     <div class="caution">
     <p>便利な機能と注意</p>
     <ul>
-    <li>Enterキーを押すとクリップボードに今までの内容がコピーされます。</li>
-    <li>リロードすると入力した情報は失われます。</li>
+    <li>メモした内容はブラウザに保存されます。削除したいときは上のボタンを押してください。</li>
     <li>入力した情報がインターネットに送信されることはありません。</li>
     </ul>
   </div>
